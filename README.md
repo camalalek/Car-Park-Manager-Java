@@ -1,2 +1,2 @@
-# Car-Park-Manager-Java-OOP
-Car park manager developed with Java OOP
+# Car-Park-Manager-Java
+Car park manager developed with Java (OOP)
